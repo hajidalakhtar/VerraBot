@@ -35,8 +35,8 @@ ___
 clone the repository
 
 ```sh
-$ https://github.com/hajidalakhtar/flask_chatbot_monggodb.git
-$ cd flask_chatbot_monggodb
+$ https://github.com/hajidalakhtar/VerraBot.git
+$ cd VerraBot
 ```
 
 
